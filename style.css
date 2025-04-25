@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #13FF4A;
+    padding:30px ;
+}
+
+footer{
+    background-color: #13FF4A;
+    padding: 30px;
+}
+footer p{
+    background-color: gray;
+}
